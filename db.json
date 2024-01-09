@@ -1,0 +1,188 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "img": "https://img.freepik.com/free-photo/sport-running-shoes_1203-3414.jpg?size=626&ext=jpg&ga=GA1.2.901529343.1693293836&semt=sph",
+      "name": "Addidas",
+      "dep": "Pink Men Shoes",
+      "price": "199.00"
+    },
+    {
+      "id": "2",
+      "img": "https://img.freepik.com/free-photo/pair-trainers_144627-3799.jpg?size=626&ext=jpg&ga=GA1.1.901529343.1693293836&semt=sph",
+      "name": "Addidas",
+      "dep": "Sky Blue Men Shoes",
+      "price": "159.00"
+    },
+    {
+      "id": "3",
+      "img": "https://img.freepik.com/premium-photo/sport-shoes_878798-1444.jpg?size=626&ext=jpg&ga=GA1.1.901529343.1693293836&semt=sph",
+      "name": "Addidas",
+      "dep": " Dark Blue Men Shoes",
+      "price": "119.00"
+    },
+    {
+      "id": "4",
+      "img": "https://img.freepik.com/premium-photo/men-trekking-shoes-isolated-gray-red-hiking-shoes-safety-footwear-climbing-adventure-gear-lightweight-rubber-trekking-shoes-with-safety-sole_33867-995.jpg?size=626&ext=jpg&ga=GA1.1.901529343.1693293836&semt=sph",
+      "name": "Addidas",
+      "dep": "Grey Men Shoes",
+      "price": "259.00"
+    },
+    {
+      "id": "5",
+      "img": "https://img.freepik.com/premium-photo/pair-white-sneakers-isolated-white-background_743855-38017.jpg?size=626&ext=jpg&ga=GA1.1.901529343.1693293836&semt=sph",
+      "name": "Addidas",
+      "dep": "White Men Shoes",
+      "price": "159.00"
+    },
+    {
+      "id": "6",
+      "img": "https://img.freepik.com/free-photo/shoes_1203-8155.jpg?w=740&t=st=1703485771~exp=1703486371~hmac=32c2d1b897a528e06f915e9b854a5094a071cef4cefd7910187fc1a10e35623d",
+      "name": "Addidas",
+      "dep": "Light Blue Men Shoes",
+      "price": "199.00"
+    },
+    {
+      "id": "7",
+      "img": "https://img.freepik.com/premium-photo/women-s-red-shoes-from-varnish-white-background_308547-6893.jpg?size=626&ext=jpg",
+      "name": "Addidas",
+      "dep": "Black-white Men Shoes",
+      "price": "109.00"
+    },
+    {
+      "id": "8",
+      "img": "https://img.freepik.com/free-photo/black-fashion-gumshoes_144627-9657.jpg?size=626&ext=jpg",
+      "name": "Addidas",
+      "dep": "Black Men Shoes",
+      "price": "129.00"
+    },
+    {
+      "id": "9",
+      "img": "https://img.freepik.com/premium-photo/sunglasses-isolated-white-background-with-clipping-path_105428-2108.jpg?size=626&ext=jpg&ga=GA1.2.901529343.1693293836&semt=sph",
+      "name": "Titan",
+      "dep": "sunglasses isolated white",
+      "price": "299.00"
+    },
+    {
+      "id": "10",
+      "img": "https://img.freepik.com/premium-photo/pink-gold-elegant-sunglasses-isolated-white-background_34836-2298.jpg?w=740",
+      "name": "Titan",
+      "dep": "sunglasses isolated white",
+      "price": "229.00"
+    },
+    {
+      "id": "11",
+      "img": "https://img.freepik.com/premium-photo/sunglasses-isolated-against-white_93675-20811.jpg?size=626&ext=jpg",
+      "name": "Titan",
+      "dep": "sunglasses isolated white",
+      "price": "209.00"
+    },
+    {
+      "id": "12",
+      "img": "https://img.freepik.com/premium-photo/stylish-sunglasses-isolated-white-background-close-up_93675-124252.jpg?size=626&ext=jpg",
+      "name": "Titan",
+      "dep": "sunglasses isolated white",
+      "price": "209.00"
+    },
+    {
+      "id": "13",
+      "img": "https://img.freepik.com/free-photo/sunglasses_1203-7886.jpg?size=626&ext=jpg",
+      "name": "Titan",
+      "dep": "sunglasses isolated white",
+      "price": "209.00"
+    },
+    {
+      "id": "14",
+      "img": "https://img.freepik.com/premium-photo/closeup-sunglasses-against-white-background_660575-278.jpg?size=626&ext=jpg",
+      "name": "Titan",
+      "dep": "sunglasses isolated white",
+      "price": "209.00"
+    },
+    {
+      "id": "15",
+      "img": "https://img.freepik.com/premium-photo/sunglasses_36022-115.jpg?size=626&ext=jpg",
+      "name": "Titan",
+      "dep": "sunglasses isolated white",
+      "price": "209.00"
+    },
+    {
+      "id": "16",
+      "img": "https://img.freepik.com/premium-photo/beautiful-luxury-black-sunglasses-with-multicolor-mirror-lens-isolated-white-background_39665-117.jpg?size=626&ext=jpg",
+      "name": "Titan",
+      "dep": "sunglasses isolated white",
+      "price": "209.00"
+    },
+    {
+      "id": "17",
+      "img": "https://img.freepik.com/premium-photo/gold-smart-watch-blank-screen-mock-up-isolated_87790-960.jpg?w=740",
+      "name": "Apple",
+      "dep": "Gold smart watch  ",
+      "price": "5999.00"
+    },
+    {
+      "id": "18",
+      "img": "https://img.freepik.com/premium-vector/smartwatch_157999-1684.jpg?w=740",
+      "name": "Apple",
+      "dep": "smart watch realistic ",
+      "price": "2999.00"
+    },
+    {
+      "id": "19",
+      "img": "https://img.freepik.com/premium-vector/mockup-phone-watch-laptop-tablet-display-vector-mobile-app-user-interface-ui-platform-online-media_278914-1106.jpg",
+      "name": "Apple",
+      "dep": "Mockup phone watch ",
+      "price": "3999.00"
+    },
+    {
+      "id": "20",
+      "img": "https://img.freepik.com/premium-vector/smartwatch-ilustration_157999-1426.jpg?size=626&ext=jpg",
+      "name": "Apple",
+      "dep": "Smartwatch ilustration",
+      "price": "4999.00"
+    },
+    {
+      "id": "21",
+      "img": "https://img.freepik.com/premium-vector/realistic-apple-mockups-apple-watch-modern-watch-mockup-apple-watch-apple-mock-up-eps-10-vector-illustration_561158-155.jpg?size=626&ext=jpg",
+      "name": "Apple",
+      "dep": "Smart watch black color ",
+      "price": "6999.00"
+    },
+    {
+      "id": "22",
+      "img": "https://img.freepik.com/premium-vector/smart-watch_195186-3887.jpg",
+      "name": "Apple",
+      "dep": "Smart watch pink color",
+      "price": "3999.00"
+    },
+    {
+      "id": "23",
+      "img": "https://img.freepik.com/free-vector/metallic-modern-watch_23-2147517453.jpg?1&w=740&t=st=1704193539~exp=1704194139~hmac=0f13a95f5595cd2598cdeb0338264b3059aa29823e994cf6e23bd7ad72c5a967",
+      "name": "Apple",
+      "dep": "metallic modern watch ",
+      "price": "4999.00"
+    },
+    {
+      "id": "24",
+      "img": "https://img.freepik.com/premium-vector/modern-watch_23-2147517454.jpg?1&w=740",
+      "name": "Apple",
+      "dep": "Modern watch",
+      "price": "5999.00"
+    }
+  ],
+  "get": [
+    {
+      "id": "1",
+      "img": "https://img.freepik.com/free-photo/sport-running-shoes_1203-3414.jpg?size=626&ext=jpg&ga=GA1.2.901529343.1693293836&semt=sph",
+      "name": "Addidas",
+      "dep": "Pink Men Shoes",
+      "price": "199.00"
+    },
+    {
+      "id": "23",
+      "img": "https://img.freepik.com/free-vector/metallic-modern-watch_23-2147517453.jpg?1&w=740&t=st=1704193539~exp=1704194139~hmac=0f13a95f5595cd2598cdeb0338264b3059aa29823e994cf6e23bd7ad72c5a967",
+      "name": "Apple",
+      "dep": "metallic modern watch ",
+      "price": "4999.00"
+    }
+  ]
+}
